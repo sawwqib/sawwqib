@@ -46,6 +46,9 @@
 ## 🌐 Connect With Me
 
 <div align="center">
+  <a href="https://t.me/sawwqib" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-%230068D8.svg?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram" style="box-shadow:0 2px 8px #0068D833; border-radius:8px;" />
+  </a>
   <a href="https://instagram.com/s.aww.qib" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" style="box-shadow:0 2px 8px #e4405f33; border-radius:8px;" />
   </a>
@@ -54,6 +57,8 @@
   </a>
   <a href="https://sawwqib.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="box-shadow:0 2px 8px #00000022; border-radius:8px;" />
+    <a href="https://www.youtube.com/channel/UC5JwHy2IjQ2VuzhmbzYdH1Q">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5JwHy2IjQ2VuzhmbzYdH1Q"></a>
   </a>
 </div>
 
