@@ -38,7 +38,7 @@
 
 <p align="center">
   <b>💬 I'm happy to share code from my personal projects — just reach out!</b><br/>
-  📬 Email or DM me on Instagram — let’s build something cool together.
+  📬 Email or DM me on Telegram — let’s build something cool together.
 </p>
 
 ---
