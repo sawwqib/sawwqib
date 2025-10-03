@@ -110,6 +110,6 @@
 <br/>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=your-sawwqib)
+  <img src="https://komarev.com/ghpvc/?username=your-sawwqib">
   <small>✨ Thanks for visiting — I appreciate every click!</small>
 </div>
