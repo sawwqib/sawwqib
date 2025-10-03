@@ -110,6 +110,6 @@
 <br/>
 
 <div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=sawwqib)
+  ![](https://komarev.com/ghpvc/?username=your-sawwqib)
   <small>✨ Thanks for visiting — I appreciate every click!</small>
 </div>
