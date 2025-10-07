@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img width="100%" src="https://res.cloudinary.com/datfjlguq/image/upload/v1759847581/xa1dpp3ade7cpm9hfdi1.gif" alt="Saqib" style="border-radius: 24px; box-shadow: 0 8px 32px 0 rgba(99,102,241,0.18);" />
+  <img width="100%" src="https://res.cloudinary.com/datfjlguq/image/upload/v1759847713/ugbbplzb3srljg8f0jsc.gif" alt="Saqib" style="border-radius: 24px; box-shadow: 0 8px 32px 0 rgba(99,102,241,0.18);" />
 </p>
 
 <br/>
