@@ -110,7 +110,7 @@
 <br/>
 
 <div align="center">
-  <h3>Profile Vists</h3>
+  <h3>Profile Visits</h3>
   <img src="https://count.getloli.com/@sawwqib?name=sawwqib&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="sawwqib">
   <br>
   <small>✨ Thanks for visiting — I appreciate every click!</small>
