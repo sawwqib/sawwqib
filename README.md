@@ -66,6 +66,17 @@
 
 ---
 
+## 🤖 My Telegram Bots
+[![Telegram](https://img.shields.io/badge/🤖_WormGPT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibswormgptbot)
+
+[![Telegram](https://img.shields.io/badge/🤖_Orbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibstelehackbot)
+
+[![Telegram](https://img.shields.io/badge/🤖_Aadhar_Leaked_bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibaadharleakbot)
+
+[![Telegram](https://img.shields.io/badge/🤖_Chatbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibchatbot)
+
+---
+
 ## 💻 Tech Stack
 
 <p align="center">
