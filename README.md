@@ -49,7 +49,7 @@
   <a href="https://t.me/sawwqib" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%230068D8.svg?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram" style="box-shadow:0 2px 8px #0068D833; border-radius:8px;" />
   </a>
-  <a href="https://t.me/@sawwqibcodes" target="_blank">
+  <a href="https://t.me/sawwqibcodes" target="_blank">
   <img src="https://img.shields.io/badge/Telegram_Channel-%230068D8.svg?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Channel" style="box-shadow:0 2px 8px #0068D833; border-radius:8px;" />
   </a>
   <a href="https://instagram.com/s.aww.qib" target="_blank">
