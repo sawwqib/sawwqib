@@ -26,23 +26,6 @@
 
 ---
 
-## 📣 <span style="color:#f472b6;">Need Project Source Code?</span>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/📌_Contact_Me_for_Project_Codes!-f76680?style=for-the-badge&logo=github&logoColor=white&animation=heartbeat" style="filter: drop-shadow(0 2px 8px #f472b655);" />
-</div>
-
-<div align="center" style="margin: 18px 0;">
- <a href="https://sawwqib.vercel.app"> <img src="https://res.cloudinary.com/datfjlguq/image/upload/v1756644173/ibwrbdf9u5npz93lyarf.gif" width="120" height="120" style="border-radius:50%;box-shadow:0 4px 24px #6366f122;" alt="3D Contact" /> </a>
-</div>
-
-<p align="center">
-  <b>💬 I'm happy to share code from my personal projects — just reach out!</b><br/>
-  📬 Email or DM me on Telegram — let’s build something cool together.
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
