@@ -83,13 +83,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sawwqib&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" style="box-shadow:0 2px 12px #6366f122; border-radius:16px;" />
-</div>
-
----
 
 ### 🧠 Dev Quote of the Day
 
