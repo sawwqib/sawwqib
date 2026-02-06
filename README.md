@@ -89,6 +89,7 @@
 > <span style="font-size:1.1em; color:#6366f1;">"The best way to predict the future is to invent it."</span>  
 > <span style="color:#f472b6;">— Alan Kay</span>
 
+---
 
 <br/>
 
