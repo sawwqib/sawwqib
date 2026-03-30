@@ -59,7 +59,7 @@
 
 [![Telegram](https://img.shields.io/badge/🤖_Aadhar_Leaked_bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibaadharleakbot)
 
-[![Telegram](https://img.shields.io/badge/🤖_Chatbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibchatbot)
+[![Telegram](https://img.shields.io/badge/🤖_Chatbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibchattwinbot)
 
 ---
 
