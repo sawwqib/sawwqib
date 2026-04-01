@@ -61,6 +61,8 @@
 
 [![Telegram](https://img.shields.io/badge/🤖_Chat_Twin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibchattwinbot)
 
+[![Telegram](https://img.shields.io/badge/🤖_TraceX_OSINT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/teaceXosintbot?start=_tgr_T4QJd9QxNjA1)
+
 ---
 
 ## 💻 Tech Stack
