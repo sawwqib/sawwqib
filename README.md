@@ -53,15 +53,17 @@
 ---
 
 ## 🤖 My Telegram Bots
-[![Telegram](https://img.shields.io/badge/🤖_WormGPT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibswormgptbot)
+[![Telegram](https://img.shields.io/badge/🤖_WormGPT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibswormgptbot?start=_tgr_eOry7XdlNzc1)
 
-[![Telegram](https://img.shields.io/badge/🤖_Orbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibstelehackbot)
+[![Telegram](https://img.shields.io/badge/🤖_Orbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibtelehackbot?start=_tgr_syJwS2JjMTE1)
 
-[![Telegram](https://img.shields.io/badge/🤖_Aadhar_Leaked_bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibaadharleakbot)
+[![Telegram](https://img.shields.io/badge/🤖_Aadhar_Leaked_bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aadharleakedbot?start=_tgr_lAinxmA1MmI9)
 
-[![Telegram](https://img.shields.io/badge/🤖_Chat_Twin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibchattwinbot)
+[![Telegram](https://img.shields.io/badge/🤖_Chat_Twin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqibchattwinbot?start=_tgr_UTGbdI00ZmY9)
 
 [![Telegram](https://img.shields.io/badge/🤖_TraceX_OSINT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/teaceXosintbot?start=_tgr_T4QJd9QxNjA1)
+
+[![Telegram](https://img.shields.io/badge/🤖_Telegram_OSINT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tgdetailsXosintbot?start=_tgr_kn76OiEzMGY9)
 
 ---
 
