@@ -70,7 +70,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,vercel,netlify,github,claude" height="48" style="margin:0 8px; filter: drop-shadow(0 2px 8px #6366f122);" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,vercel,netlify,github" height="48" style="margin:0 8px; filter: drop-shadow(0 2px 8px #6366f122);" />
 </p>
 
 ---
