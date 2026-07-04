@@ -65,6 +65,8 @@
 
 [![Telegram](https://img.shields.io/badge/🤖_Telegram_OSINT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tgdetailsXosintbot?start=_tgr_kn76OiEzMGY9)
 
+[![Telegram](https://img.shields.io/badge/🤖_Vehicle_OSINT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VehOsiBot?start=_tgr__ZkelOxlYjk1)
+
 ---
 
 ## 💻 Tech Stack
