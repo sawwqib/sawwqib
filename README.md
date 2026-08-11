@@ -67,6 +67,8 @@
 
 [![Telegram](https://img.shields.io/badge/🤖_Phone_Number_OSINT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phone2detailsbot?start=_tgr_Fq2HHgw2YWRl)
 
+[![Telegram](https://img.shields.io/badge/🤖_Movie_Search_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moviessearchhbot?start=_tgr_qQWtsqM1YWE1)
+
 ---
 
 ## 💻 Tech Stack
