@@ -41,11 +41,11 @@
   <a href="mailto:coderinhtml@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" style="box-shadow:0 2px 8px #d1483633; border-radius:8px;" />
   </a>
-  <a href="https://sawwqib.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="box-shadow:0 2px 8px #00000022; border-radius:8px;" />
-    <a href="https://www.youtube.com/channel/UC5JwHy2IjQ2VuzhmbzYdH1Q">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5JwHy2IjQ2VuzhmbzYdH1Q"></a>
-  </a>
+  
+<a href="https://www.youtube.com/channel/UC5JwHy2IjQ2VuzhmbzYdH1Q">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC5JwHy2IjQ2VuzhmbzYdH1Q?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20Subscribers" alt="YouTube Subscribers">
+</a>
+
 </div>
 
 <br/>
